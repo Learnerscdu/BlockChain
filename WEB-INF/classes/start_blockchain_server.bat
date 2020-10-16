@@ -1,0 +1,1 @@
+geth --identity nodeSOL --nodiscover --networkid 13 --port 30303 --maxpeers 10 --lightkdf --cache 16  --syncmode "fast" --rpc --rpccorsdomain "*" --datadir "C:\ETH\data-private" --etherbase "0xb6ecc4bfac92a1d5fc1aad218bcb7dd6814c90a9" --minerthreads 1  --mine
